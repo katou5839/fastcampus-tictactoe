@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fastcampus-tictactoe/static/css/main.b308de6b.css",
+    "main.js": "/fastcampus-tictactoe/static/js/main.a84ef885.js",
+    "static/js/787.b66e7712.chunk.js": "/fastcampus-tictactoe/static/js/787.b66e7712.chunk.js",
+    "index.html": "/fastcampus-tictactoe/index.html",
+    "main.b308de6b.css.map": "/fastcampus-tictactoe/static/css/main.b308de6b.css.map",
+    "main.a84ef885.js.map": "/fastcampus-tictactoe/static/js/main.a84ef885.js.map",
+    "787.b66e7712.chunk.js.map": "/fastcampus-tictactoe/static/js/787.b66e7712.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b308de6b.css",
+    "static/js/main.a84ef885.js"
+  ]
+}
